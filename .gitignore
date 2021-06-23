@@ -4,11 +4,10 @@ application/cache/*
 !application/cache/index.html
 !application/cache/.htaccess
 
-application/config/*
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
-
+application/config/*
 composer.lock
 
 user_guide_src/build/*
